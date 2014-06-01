@@ -1,4 +1,11 @@
-Music-Sequencer
-===============
+Music Sequencer
+===
 
-Music sequencer project. Probably won't ever finish this.
+Note to self: Make this thing better!
+
+Stuff I'm using:
+---
+Project       | Webpage                                   | License
+------------- | ----------------------------------------- | ---
+
+Yeah!
